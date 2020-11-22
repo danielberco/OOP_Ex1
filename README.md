@@ -1,8 +1,10 @@
 # OOP- Ex1 : Undirectional weighted graph
 
-In this project, there is classes that represents an undirectional weighted graph:
+This project representing an undirectional weighted graph using the interfaces `weighted_graph` and it's nodes (vertex) `node_info`.
+Each edge, as the connection between two nodes contain a weight. 
+In this project we wiil use some methods with the edges of the graph.
+Let's start by breaking down each class  :
 
-`WGraph_DS`  -  a class that contains all the nodes and the edges of the vertex by using `HashMap` interface.
 
 # WGraph_DS 
 `WGraph_DS` is a class that represnets an interface of `weighted_graph` of undirectioanl weighted graph.
